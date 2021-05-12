@@ -1,6 +1,6 @@
 """Checks user imported data."""
-
 import pandas as pd
+
 
 print(
     """Testing if the data provided by user matches
