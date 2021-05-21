@@ -46,8 +46,10 @@ seaborn = "*"
 ### User Input Data & Formatting Guidelines
 
 In order to run this tool with user inputted data, you must comply to the standardized
-guidelines for the format of the data. The approach is to run a separate checker program
-by using `python data_check.py`. This checker program is described below.
+guidelines for the format of the data. The first step is to replace the `input_file.csv`
+from the data folder with your own data set using the same file name of `input_file.csv`.
+The approach is to run a separate checker program by using `python data_check.py`.
+This checker program is described below.
 
 The header must match the following items:
 Index, City, Mask Policy, Maximum Capacity, and Infection.
