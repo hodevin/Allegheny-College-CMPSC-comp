@@ -16,7 +16,7 @@ does not make any real claims, but any individual can use their own discretion t
 
 ## Getting Started
 
-### Prerequisite
+### Prerequisites
 
 #### System and Python
 
@@ -46,8 +46,11 @@ seaborn = "*"
 ### User Input Data & Formatting Guidelines
 
 In order to run this tool with user inputted data, you must comply to the standardized
-guidelines for the format of the data. The approach is to run a separate checker program
-by using `python data_check.py`. This checker program is described below.
+guidelines for the format of the data. The first step is to replace the `input_file.csv`
+from the data folder with your own data set using the same file name of `input_file.csv`.
+The approach is to run a separate checker program by using `pipenv run python data_check.py`.
+Make sure to comment out line #124 in `process_control.py` if you are using your own data.
+This checker program is described below.
 
 The header must match the following items:
 Index, City, Mask Policy, Maximum Capacity, and Infection.
@@ -68,17 +71,12 @@ as a boolean.
 
 ### Deployment
 
-To deploy the project, first install the dependencies, then use `python data_generation.py` to
-generate random synthetic data. Skip this step if you are using your own inputted data!
+Before deployment, please refer to the above section to ensure that the user input data is sufficiently
+formatted.
 
-Next, use `python process_control.py` to create the tables based on the generated data or user
-inputted data.
-
-Lastly, use `python graphs.py` to generate graphs based on the tables generated in the previous
-step.
-
-In general, you can run these 3 programs as many times as you need to. However, it is required
-to follow this order when you first run it to get the most accurate results.
+To deploy the project, first install all required dependencies. Use `pipenv run python process_control.py`
+to run the tool as it will call all the functions to create the data tables and generate graphs.
+This also handles the generation of the synthetic dataset if it is desired.
 
 # License
 
