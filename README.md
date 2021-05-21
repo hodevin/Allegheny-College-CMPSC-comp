@@ -9,9 +9,9 @@ of the subject. There is not enough accurate or available data to truly access w
 is the best course of action.
 
 The tool will produce the results based on whoever is uploading the data, and it is entirely
-up to the user to make those hypotheses. This tool supports analytics from different users
-and promotes collaboration. The graphs produced by the tool does not make any real claims,
-but any individual can use their own discretion.
+up to the user to make their own hypotheses and analyze the output. This tool supports
+analytics from different users and promotes collaboration. The graphs produced by the tool
+does not make any real claims, but any individual can use their own discretion to make claims.
 
 ## Getting Started
 
