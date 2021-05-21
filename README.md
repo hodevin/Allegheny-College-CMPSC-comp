@@ -16,7 +16,7 @@ does not make any real claims, but any individual can use their own discretion t
 
 ## Getting Started
 
-### Prerequisite
+### Prerequisites
 
 #### System and Python
 
