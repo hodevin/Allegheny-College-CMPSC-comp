@@ -27,7 +27,7 @@ def random_data_generator(user_amount):
     locations = [
         "Anchorage",
         "Pittsburgh",
-        "Baltimor",
+        "Baltimore",
         "Houston",
         "New York",
         "Los Angeles",
@@ -57,7 +57,7 @@ def random_data_generator(user_amount):
         # Randomly determine mask mandate (boolean).
         city_mask = [
             "Anchorage",
-            "Baltimor",
+            "Baltimore",
             "Houston",
             "Miami",
             "Saint Louis",

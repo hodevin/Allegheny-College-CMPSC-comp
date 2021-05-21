@@ -1,0 +1,11 @@
+City,Mask Policy,Maximum Capacity,Infection Count,Sample Total
+Anchorage,True,0.75,60,108
+Baltimore,True,0.5,49,96
+Boston,False,0.25,39,101
+Denver,True,0.5,45,91
+Houston,True,0.25,40,90
+Los Angeles,False,0.25,59,119
+Miami,True,1.0,49,97
+New York,False,0.25,45,99
+Pittsburgh,False,0.75,45,97
+Saint Louis,True,0.5,50,102

@@ -1,6 +1,6 @@
 """Checks user imported data."""
-import pandas as pd
 
+import pandas as pd
 
 print(
     """Testing if the data provided by user matches
@@ -8,7 +8,7 @@ the pattern defined by data generator...\n
 Please tidy your data if the test does not pass.\n"""
 )
 # Import data from csv.
-df = pd.read_csv("./data/input_file.csv")
+df = pd.read_csv("../data/input_file.csv")
 group_by_city = df.groupby("City")
 group_by_mask = df.groupby("Mask Policy")
 group_by_cap = df.groupby("Maximum Capacity")
@@ -32,7 +32,7 @@ print(f"Total number of cities provided by user: {len(group_by_city)}\n")
 locations = [
     "Anchorage",
     "Pittsburgh",
-    "Baltimor",
+    "Baltimore",
     "Houston",
     "New York",
     "Los Angeles",
