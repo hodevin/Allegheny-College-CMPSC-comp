@@ -1,0 +1,1001 @@
+Index,City,Mask Policy,Maximum Capacity,Infection
+1,Houston,True,0.25,False
+2,Anchorage,True,0.75,True
+3,Saint Louis,True,0.5,False
+4,Anchorage,True,0.75,True
+5,New York,False,0.25,False
+6,Los Angeles,False,0.25,False
+7,Miami,True,1.0,True
+8,Anchorage,True,0.75,True
+9,Los Angeles,False,0.25,False
+10,Los Angeles,False,0.25,False
+11,Anchorage,True,0.75,False
+12,New York,False,0.25,False
+13,Anchorage,True,0.75,False
+14,Los Angeles,False,0.25,True
+15,Denver,True,0.5,False
+16,Anchorage,True,0.75,False
+17,Saint Louis,True,0.5,False
+18,Los Angeles,False,0.25,True
+19,Pittsburgh,False,0.75,True
+20,Boston,False,0.25,True
+21,Boston,False,0.25,False
+22,New York,False,0.25,False
+23,Baltimore,True,0.5,False
+24,Saint Louis,True,0.5,False
+25,Pittsburgh,False,0.75,True
+26,New York,False,0.25,False
+27,Denver,True,0.5,False
+28,Denver,True,0.5,True
+29,Denver,True,0.5,False
+30,Houston,True,0.25,True
+31,Saint Louis,True,0.5,False
+32,Houston,True,0.25,True
+33,Baltimore,True,0.5,False
+34,Los Angeles,False,0.25,True
+35,New York,False,0.25,True
+36,Los Angeles,False,0.25,False
+37,New York,False,0.25,False
+38,Baltimore,True,0.5,True
+39,Houston,True,0.25,False
+40,Houston,True,0.25,True
+41,Saint Louis,True,0.5,True
+42,Houston,True,0.25,False
+43,Pittsburgh,False,0.75,True
+44,Saint Louis,True,0.5,False
+45,Baltimore,True,0.5,False
+46,Denver,True,0.5,False
+47,Miami,True,1.0,True
+48,Los Angeles,False,0.25,True
+49,Saint Louis,True,0.5,True
+50,New York,False,0.25,True
+51,Pittsburgh,False,0.75,True
+52,Pittsburgh,False,0.75,False
+53,Pittsburgh,False,0.75,False
+54,Los Angeles,False,0.25,True
+55,Los Angeles,False,0.25,False
+56,Denver,True,0.5,False
+57,Los Angeles,False,0.25,False
+58,New York,False,0.25,True
+59,Miami,True,1.0,True
+60,Los Angeles,False,0.25,False
+61,Baltimore,True,0.5,False
+62,Boston,False,0.25,False
+63,Saint Louis,True,0.5,False
+64,Houston,True,0.25,True
+65,Los Angeles,False,0.25,True
+66,Pittsburgh,False,0.75,False
+67,Pittsburgh,False,0.75,True
+68,Anchorage,True,0.75,False
+69,New York,False,0.25,True
+70,New York,False,0.25,False
+71,New York,False,0.25,False
+72,Saint Louis,True,0.5,True
+73,Baltimore,True,0.5,True
+74,New York,False,0.25,False
+75,Baltimore,True,0.5,True
+76,Denver,True,0.5,False
+77,Boston,False,0.25,True
+78,Boston,False,0.25,True
+79,Anchorage,True,0.75,False
+80,Saint Louis,True,0.5,True
+81,Anchorage,True,0.75,True
+82,Los Angeles,False,0.25,True
+83,Saint Louis,True,0.5,True
+84,Miami,True,1.0,False
+85,Miami,True,1.0,False
+86,Miami,True,1.0,False
+87,Los Angeles,False,0.25,True
+88,Houston,True,0.25,False
+89,Saint Louis,True,0.5,False
+90,Pittsburgh,False,0.75,True
+91,Houston,True,0.25,True
+92,New York,False,0.25,False
+93,Denver,True,0.5,True
+94,Pittsburgh,False,0.75,False
+95,New York,False,0.25,True
+96,Baltimore,True,0.5,True
+97,Boston,False,0.25,False
+98,New York,False,0.25,True
+99,Miami,True,1.0,False
+100,Denver,True,0.5,False
+101,Denver,True,0.5,False
+102,Miami,True,1.0,False
+103,New York,False,0.25,False
+104,Baltimore,True,0.5,True
+105,Houston,True,0.25,False
+106,Anchorage,True,0.75,True
+107,Miami,True,1.0,True
+108,Boston,False,0.25,False
+109,Saint Louis,True,0.5,True
+110,Miami,True,1.0,False
+111,Pittsburgh,False,0.75,True
+112,Baltimore,True,0.5,False
+113,Baltimore,True,0.5,True
+114,Miami,True,1.0,True
+115,Houston,True,0.25,True
+116,Boston,False,0.25,True
+117,Baltimore,True,0.5,True
+118,Pittsburgh,False,0.75,False
+119,Baltimore,True,0.5,True
+120,Los Angeles,False,0.25,False
+121,Houston,True,0.25,True
+122,Baltimore,True,0.5,True
+123,Saint Louis,True,0.5,True
+124,Miami,True,1.0,True
+125,Saint Louis,True,0.5,False
+126,Los Angeles,False,0.25,False
+127,Denver,True,0.5,False
+128,Baltimore,True,0.5,True
+129,Miami,True,1.0,False
+130,Saint Louis,True,0.5,False
+131,Pittsburgh,False,0.75,False
+132,Baltimore,True,0.5,False
+133,Los Angeles,False,0.25,True
+134,Miami,True,1.0,False
+135,Pittsburgh,False,0.75,False
+136,Anchorage,True,0.75,False
+137,Los Angeles,False,0.25,False
+138,Los Angeles,False,0.25,False
+139,Pittsburgh,False,0.75,False
+140,New York,False,0.25,True
+141,Boston,False,0.25,True
+142,Saint Louis,True,0.5,True
+143,Houston,True,0.25,True
+144,Anchorage,True,0.75,False
+145,New York,False,0.25,True
+146,Houston,True,0.25,True
+147,Pittsburgh,False,0.75,True
+148,Houston,True,0.25,False
+149,Houston,True,0.25,True
+150,Pittsburgh,False,0.75,False
+151,Los Angeles,False,0.25,False
+152,Los Angeles,False,0.25,True
+153,Boston,False,0.25,True
+154,Denver,True,0.5,True
+155,Houston,True,0.25,False
+156,Denver,True,0.5,True
+157,Saint Louis,True,0.5,False
+158,Denver,True,0.5,False
+159,New York,False,0.25,True
+160,Anchorage,True,0.75,True
+161,Anchorage,True,0.75,True
+162,Los Angeles,False,0.25,True
+163,Denver,True,0.5,True
+164,Boston,False,0.25,False
+165,Pittsburgh,False,0.75,False
+166,Denver,True,0.5,True
+167,Saint Louis,True,0.5,False
+168,Anchorage,True,0.75,False
+169,Boston,False,0.25,True
+170,Miami,True,1.0,True
+171,Boston,False,0.25,False
+172,Houston,True,0.25,True
+173,Pittsburgh,False,0.75,True
+174,Saint Louis,True,0.5,True
+175,Saint Louis,True,0.5,True
+176,Anchorage,True,0.75,False
+177,Pittsburgh,False,0.75,False
+178,Miami,True,1.0,True
+179,Pittsburgh,False,0.75,True
+180,Baltimore,True,0.5,True
+181,Boston,False,0.25,False
+182,Pittsburgh,False,0.75,True
+183,Saint Louis,True,0.5,False
+184,Anchorage,True,0.75,True
+185,Pittsburgh,False,0.75,False
+186,Houston,True,0.25,True
+187,New York,False,0.25,True
+188,New York,False,0.25,False
+189,Los Angeles,False,0.25,True
+190,Anchorage,True,0.75,True
+191,Pittsburgh,False,0.75,False
+192,Boston,False,0.25,False
+193,Denver,True,0.5,False
+194,Anchorage,True,0.75,True
+195,Anchorage,True,0.75,False
+196,New York,False,0.25,False
+197,Miami,True,1.0,True
+198,Boston,False,0.25,True
+199,Pittsburgh,False,0.75,False
+200,Baltimore,True,0.5,True
+201,Anchorage,True,0.75,True
+202,Baltimore,True,0.5,False
+203,New York,False,0.25,False
+204,Boston,False,0.25,False
+205,Houston,True,0.25,False
+206,Boston,False,0.25,False
+207,Anchorage,True,0.75,False
+208,Los Angeles,False,0.25,False
+209,Anchorage,True,0.75,False
+210,Anchorage,True,0.75,True
+211,Baltimore,True,0.5,False
+212,Miami,True,1.0,True
+213,Los Angeles,False,0.25,False
+214,New York,False,0.25,False
+215,New York,False,0.25,False
+216,Houston,True,0.25,True
+217,Houston,True,0.25,False
+218,Saint Louis,True,0.5,True
+219,Baltimore,True,0.5,False
+220,Houston,True,0.25,False
+221,New York,False,0.25,True
+222,Boston,False,0.25,False
+223,Los Angeles,False,0.25,True
+224,Baltimore,True,0.5,True
+225,Houston,True,0.25,False
+226,Los Angeles,False,0.25,False
+227,Saint Louis,True,0.5,True
+228,New York,False,0.25,True
+229,Denver,True,0.5,False
+230,Baltimore,True,0.5,False
+231,Houston,True,0.25,True
+232,Anchorage,True,0.75,False
+233,New York,False,0.25,True
+234,Baltimore,True,0.5,False
+235,Boston,False,0.25,False
+236,Boston,False,0.25,False
+237,Miami,True,1.0,False
+238,Boston,False,0.25,False
+239,Los Angeles,False,0.25,False
+240,Anchorage,True,0.75,False
+241,Baltimore,True,0.5,True
+242,Los Angeles,False,0.25,False
+243,New York,False,0.25,True
+244,Anchorage,True,0.75,False
+245,Baltimore,True,0.5,False
+246,Boston,False,0.25,False
+247,Denver,True,0.5,False
+248,Miami,True,1.0,False
+249,Saint Louis,True,0.5,False
+250,Denver,True,0.5,False
+251,New York,False,0.25,True
+252,Saint Louis,True,0.5,True
+253,Denver,True,0.5,True
+254,Saint Louis,True,0.5,False
+255,Boston,False,0.25,False
+256,Boston,False,0.25,False
+257,Boston,False,0.25,False
+258,Denver,True,0.5,True
+259,Los Angeles,False,0.25,True
+260,Pittsburgh,False,0.75,False
+261,Boston,False,0.25,True
+262,Anchorage,True,0.75,True
+263,Baltimore,True,0.5,False
+264,Baltimore,True,0.5,True
+265,New York,False,0.25,True
+266,Los Angeles,False,0.25,False
+267,Miami,True,1.0,True
+268,Pittsburgh,False,0.75,False
+269,Miami,True,1.0,False
+270,Denver,True,0.5,False
+271,Pittsburgh,False,0.75,False
+272,Saint Louis,True,0.5,False
+273,Saint Louis,True,0.5,True
+274,Pittsburgh,False,0.75,True
+275,Baltimore,True,0.5,False
+276,Baltimore,True,0.5,False
+277,Miami,True,1.0,False
+278,Los Angeles,False,0.25,True
+279,Houston,True,0.25,False
+280,Anchorage,True,0.75,True
+281,Denver,True,0.5,False
+282,Boston,False,0.25,True
+283,Anchorage,True,0.75,False
+284,Saint Louis,True,0.5,True
+285,Saint Louis,True,0.5,False
+286,Pittsburgh,False,0.75,True
+287,Boston,False,0.25,False
+288,Miami,True,1.0,False
+289,Denver,True,0.5,True
+290,Pittsburgh,False,0.75,False
+291,Los Angeles,False,0.25,False
+292,Houston,True,0.25,False
+293,New York,False,0.25,False
+294,Los Angeles,False,0.25,False
+295,Anchorage,True,0.75,True
+296,Pittsburgh,False,0.75,False
+297,Boston,False,0.25,True
+298,Los Angeles,False,0.25,False
+299,Denver,True,0.5,True
+300,Pittsburgh,False,0.75,True
+301,Pittsburgh,False,0.75,True
+302,Saint Louis,True,0.5,True
+303,Miami,True,1.0,True
+304,Denver,True,0.5,False
+305,Baltimore,True,0.5,True
+306,Baltimore,True,0.5,False
+307,Boston,False,0.25,False
+308,Boston,False,0.25,True
+309,New York,False,0.25,True
+310,New York,False,0.25,False
+311,Pittsburgh,False,0.75,True
+312,Boston,False,0.25,False
+313,Los Angeles,False,0.25,True
+314,Houston,True,0.25,False
+315,Miami,True,1.0,True
+316,Anchorage,True,0.75,True
+317,Miami,True,1.0,True
+318,Denver,True,0.5,True
+319,Pittsburgh,False,0.75,False
+320,Houston,True,0.25,False
+321,Anchorage,True,0.75,True
+322,Saint Louis,True,0.5,True
+323,Houston,True,0.25,True
+324,Los Angeles,False,0.25,False
+325,Pittsburgh,False,0.75,False
+326,Baltimore,True,0.5,True
+327,Pittsburgh,False,0.75,False
+328,Pittsburgh,False,0.75,False
+329,Los Angeles,False,0.25,True
+330,Boston,False,0.25,False
+331,Los Angeles,False,0.25,True
+332,Denver,True,0.5,True
+333,Anchorage,True,0.75,True
+334,New York,False,0.25,False
+335,Los Angeles,False,0.25,True
+336,Baltimore,True,0.5,False
+337,Saint Louis,True,0.5,False
+338,Boston,False,0.25,False
+339,Miami,True,1.0,False
+340,Anchorage,True,0.75,True
+341,New York,False,0.25,False
+342,New York,False,0.25,False
+343,Miami,True,1.0,False
+344,Miami,True,1.0,False
+345,Los Angeles,False,0.25,False
+346,Saint Louis,True,0.5,False
+347,Baltimore,True,0.5,False
+348,Pittsburgh,False,0.75,True
+349,Los Angeles,False,0.25,False
+350,Miami,True,1.0,True
+351,Denver,True,0.5,True
+352,Saint Louis,True,0.5,True
+353,Anchorage,True,0.75,True
+354,Houston,True,0.25,True
+355,Denver,True,0.5,True
+356,Pittsburgh,False,0.75,True
+357,Pittsburgh,False,0.75,True
+358,Saint Louis,True,0.5,False
+359,New York,False,0.25,False
+360,Saint Louis,True,0.5,True
+361,Boston,False,0.25,False
+362,Los Angeles,False,0.25,False
+363,Anchorage,True,0.75,True
+364,Baltimore,True,0.5,False
+365,Baltimore,True,0.5,True
+366,Baltimore,True,0.5,False
+367,Denver,True,0.5,True
+368,Miami,True,1.0,True
+369,Denver,True,0.5,True
+370,Baltimore,True,0.5,True
+371,Miami,True,1.0,True
+372,Boston,False,0.25,False
+373,Los Angeles,False,0.25,False
+374,Baltimore,True,0.5,False
+375,Baltimore,True,0.5,False
+376,Pittsburgh,False,0.75,False
+377,Boston,False,0.25,False
+378,Pittsburgh,False,0.75,False
+379,Anchorage,True,0.75,False
+380,Saint Louis,True,0.5,False
+381,Baltimore,True,0.5,False
+382,Los Angeles,False,0.25,False
+383,Denver,True,0.5,True
+384,Pittsburgh,False,0.75,False
+385,Anchorage,True,0.75,False
+386,Houston,True,0.25,True
+387,Anchorage,True,0.75,False
+388,Anchorage,True,0.75,False
+389,Miami,True,1.0,False
+390,Denver,True,0.5,True
+391,Baltimore,True,0.5,False
+392,Pittsburgh,False,0.75,False
+393,Pittsburgh,False,0.75,True
+394,Los Angeles,False,0.25,False
+395,Pittsburgh,False,0.75,True
+396,Miami,True,1.0,True
+397,Saint Louis,True,0.5,True
+398,Anchorage,True,0.75,True
+399,Saint Louis,True,0.5,True
+400,Baltimore,True,0.5,True
+401,Saint Louis,True,0.5,True
+402,Saint Louis,True,0.5,False
+403,Anchorage,True,0.75,True
+404,Saint Louis,True,0.5,False
+405,Saint Louis,True,0.5,True
+406,Los Angeles,False,0.25,True
+407,Miami,True,1.0,False
+408,Pittsburgh,False,0.75,True
+409,New York,False,0.25,False
+410,Miami,True,1.0,False
+411,Anchorage,True,0.75,True
+412,New York,False,0.25,True
+413,Houston,True,0.25,False
+414,Boston,False,0.25,False
+415,Houston,True,0.25,False
+416,Anchorage,True,0.75,True
+417,Denver,True,0.5,True
+418,Los Angeles,False,0.25,True
+419,New York,False,0.25,False
+420,Baltimore,True,0.5,True
+421,Pittsburgh,False,0.75,True
+422,New York,False,0.25,False
+423,Houston,True,0.25,True
+424,Miami,True,1.0,True
+425,New York,False,0.25,False
+426,New York,False,0.25,False
+427,New York,False,0.25,True
+428,Houston,True,0.25,False
+429,Anchorage,True,0.75,False
+430,Saint Louis,True,0.5,False
+431,Anchorage,True,0.75,True
+432,Pittsburgh,False,0.75,True
+433,Anchorage,True,0.75,True
+434,Miami,True,1.0,True
+435,Baltimore,True,0.5,True
+436,Pittsburgh,False,0.75,False
+437,Pittsburgh,False,0.75,False
+438,Miami,True,1.0,False
+439,Houston,True,0.25,False
+440,Pittsburgh,False,0.75,False
+441,Baltimore,True,0.5,False
+442,Saint Louis,True,0.5,False
+443,Houston,True,0.25,False
+444,Miami,True,1.0,True
+445,Miami,True,1.0,True
+446,Anchorage,True,0.75,True
+447,Pittsburgh,False,0.75,False
+448,Baltimore,True,0.5,False
+449,Los Angeles,False,0.25,False
+450,New York,False,0.25,False
+451,Los Angeles,False,0.25,True
+452,Baltimore,True,0.5,True
+453,Boston,False,0.25,True
+454,Anchorage,True,0.75,True
+455,Baltimore,True,0.5,False
+456,Pittsburgh,False,0.75,True
+457,Los Angeles,False,0.25,False
+458,Anchorage,True,0.75,False
+459,Houston,True,0.25,True
+460,Saint Louis,True,0.5,False
+461,Houston,True,0.25,True
+462,Anchorage,True,0.75,True
+463,Houston,True,0.25,False
+464,Saint Louis,True,0.5,False
+465,Miami,True,1.0,True
+466,Miami,True,1.0,False
+467,Boston,False,0.25,True
+468,Saint Louis,True,0.5,False
+469,Baltimore,True,0.5,False
+470,Saint Louis,True,0.5,True
+471,Boston,False,0.25,True
+472,Boston,False,0.25,True
+473,Boston,False,0.25,False
+474,Pittsburgh,False,0.75,True
+475,Houston,True,0.25,True
+476,New York,False,0.25,False
+477,Denver,True,0.5,False
+478,Denver,True,0.5,False
+479,New York,False,0.25,False
+480,Los Angeles,False,0.25,False
+481,Houston,True,0.25,True
+482,New York,False,0.25,False
+483,New York,False,0.25,False
+484,Saint Louis,True,0.5,False
+485,Boston,False,0.25,False
+486,Houston,True,0.25,False
+487,Boston,False,0.25,False
+488,Saint Louis,True,0.5,True
+489,Denver,True,0.5,True
+490,Saint Louis,True,0.5,False
+491,Pittsburgh,False,0.75,False
+492,Pittsburgh,False,0.75,False
+493,Saint Louis,True,0.5,False
+494,Miami,True,1.0,False
+495,Anchorage,True,0.75,True
+496,Denver,True,0.5,True
+497,Miami,True,1.0,False
+498,Anchorage,True,0.75,True
+499,Los Angeles,False,0.25,False
+500,Baltimore,True,0.5,True
+501,New York,False,0.25,True
+502,Saint Louis,True,0.5,True
+503,Denver,True,0.5,False
+504,New York,False,0.25,True
+505,Denver,True,0.5,False
+506,Los Angeles,False,0.25,False
+507,Houston,True,0.25,True
+508,Pittsburgh,False,0.75,False
+509,Boston,False,0.25,False
+510,Anchorage,True,0.75,False
+511,Baltimore,True,0.5,True
+512,Denver,True,0.5,False
+513,Baltimore,True,0.5,True
+514,Los Angeles,False,0.25,False
+515,New York,False,0.25,True
+516,Los Angeles,False,0.25,False
+517,New York,False,0.25,False
+518,Baltimore,True,0.5,True
+519,Baltimore,True,0.5,False
+520,Baltimore,True,0.5,True
+521,Los Angeles,False,0.25,True
+522,Anchorage,True,0.75,False
+523,Saint Louis,True,0.5,False
+524,Anchorage,True,0.75,False
+525,Anchorage,True,0.75,True
+526,Boston,False,0.25,False
+527,Miami,True,1.0,True
+528,Saint Louis,True,0.5,True
+529,Los Angeles,False,0.25,True
+530,Boston,False,0.25,False
+531,Houston,True,0.25,False
+532,Denver,True,0.5,False
+533,Los Angeles,False,0.25,True
+534,Boston,False,0.25,False
+535,Pittsburgh,False,0.75,False
+536,Denver,True,0.5,True
+537,Anchorage,True,0.75,False
+538,Los Angeles,False,0.25,False
+539,Miami,True,1.0,True
+540,Los Angeles,False,0.25,False
+541,Baltimore,True,0.5,False
+542,Boston,False,0.25,True
+543,Pittsburgh,False,0.75,True
+544,Saint Louis,True,0.5,False
+545,Los Angeles,False,0.25,True
+546,Pittsburgh,False,0.75,True
+547,Denver,True,0.5,True
+548,Boston,False,0.25,True
+549,Miami,True,1.0,False
+550,Boston,False,0.25,False
+551,Saint Louis,True,0.5,True
+552,Baltimore,True,0.5,False
+553,Miami,True,1.0,False
+554,Saint Louis,True,0.5,True
+555,Denver,True,0.5,False
+556,Pittsburgh,False,0.75,False
+557,Denver,True,0.5,False
+558,Miami,True,1.0,False
+559,Los Angeles,False,0.25,True
+560,Saint Louis,True,0.5,True
+561,New York,False,0.25,False
+562,Denver,True,0.5,False
+563,Boston,False,0.25,True
+564,Baltimore,True,0.5,True
+565,Baltimore,True,0.5,False
+566,Boston,False,0.25,False
+567,Los Angeles,False,0.25,True
+568,Saint Louis,True,0.5,False
+569,Saint Louis,True,0.5,False
+570,Saint Louis,True,0.5,False
+571,New York,False,0.25,False
+572,Anchorage,True,0.75,True
+573,Saint Louis,True,0.5,True
+574,Pittsburgh,False,0.75,True
+575,Los Angeles,False,0.25,False
+576,Houston,True,0.25,True
+577,Denver,True,0.5,True
+578,Denver,True,0.5,False
+579,Houston,True,0.25,True
+580,Miami,True,1.0,False
+581,Baltimore,True,0.5,False
+582,Houston,True,0.25,False
+583,Boston,False,0.25,False
+584,Anchorage,True,0.75,True
+585,Saint Louis,True,0.5,True
+586,Pittsburgh,False,0.75,False
+587,Los Angeles,False,0.25,True
+588,Anchorage,True,0.75,False
+589,Denver,True,0.5,True
+590,Boston,False,0.25,False
+591,Pittsburgh,False,0.75,False
+592,Los Angeles,False,0.25,True
+593,Los Angeles,False,0.25,True
+594,Houston,True,0.25,False
+595,Anchorage,True,0.75,True
+596,Anchorage,True,0.75,False
+597,Saint Louis,True,0.5,False
+598,Saint Louis,True,0.5,True
+599,Houston,True,0.25,False
+600,Anchorage,True,0.75,True
+601,Houston,True,0.25,False
+602,Houston,True,0.25,False
+603,Boston,False,0.25,True
+604,Los Angeles,False,0.25,False
+605,Denver,True,0.5,True
+606,Boston,False,0.25,True
+607,New York,False,0.25,True
+608,New York,False,0.25,True
+609,Anchorage,True,0.75,False
+610,Pittsburgh,False,0.75,False
+611,Baltimore,True,0.5,True
+612,Saint Louis,True,0.5,False
+613,Los Angeles,False,0.25,True
+614,Houston,True,0.25,False
+615,Pittsburgh,False,0.75,False
+616,Boston,False,0.25,True
+617,New York,False,0.25,True
+618,Boston,False,0.25,False
+619,Anchorage,True,0.75,True
+620,Miami,True,1.0,False
+621,Miami,True,1.0,False
+622,Boston,False,0.25,True
+623,Pittsburgh,False,0.75,True
+624,Denver,True,0.5,False
+625,Baltimore,True,0.5,False
+626,Baltimore,True,0.5,False
+627,Miami,True,1.0,True
+628,Miami,True,1.0,True
+629,Boston,False,0.25,False
+630,Los Angeles,False,0.25,False
+631,Baltimore,True,0.5,False
+632,Saint Louis,True,0.5,True
+633,Boston,False,0.25,False
+634,Anchorage,True,0.75,True
+635,Miami,True,1.0,True
+636,Baltimore,True,0.5,True
+637,Miami,True,1.0,False
+638,Houston,True,0.25,True
+639,Denver,True,0.5,False
+640,Saint Louis,True,0.5,False
+641,Boston,False,0.25,True
+642,Miami,True,1.0,False
+643,Denver,True,0.5,True
+644,New York,False,0.25,False
+645,Miami,True,1.0,False
+646,Anchorage,True,0.75,False
+647,Houston,True,0.25,False
+648,Miami,True,1.0,False
+649,Miami,True,1.0,True
+650,Miami,True,1.0,False
+651,Los Angeles,False,0.25,False
+652,New York,False,0.25,True
+653,Denver,True,0.5,True
+654,New York,False,0.25,False
+655,Denver,True,0.5,True
+656,Anchorage,True,0.75,True
+657,Houston,True,0.25,False
+658,Saint Louis,True,0.5,True
+659,Anchorage,True,0.75,True
+660,Los Angeles,False,0.25,True
+661,Boston,False,0.25,True
+662,Boston,False,0.25,True
+663,New York,False,0.25,False
+664,Miami,True,1.0,True
+665,Miami,True,1.0,True
+666,Los Angeles,False,0.25,True
+667,Saint Louis,True,0.5,True
+668,New York,False,0.25,True
+669,Los Angeles,False,0.25,True
+670,Anchorage,True,0.75,True
+671,Baltimore,True,0.5,True
+672,Anchorage,True,0.75,False
+673,Baltimore,True,0.5,True
+674,Saint Louis,True,0.5,False
+675,Boston,False,0.25,False
+676,Miami,True,1.0,False
+677,Saint Louis,True,0.5,True
+678,Miami,True,1.0,True
+679,Houston,True,0.25,False
+680,Denver,True,0.5,True
+681,Houston,True,0.25,True
+682,Baltimore,True,0.5,True
+683,Miami,True,1.0,True
+684,Baltimore,True,0.5,True
+685,Saint Louis,True,0.5,False
+686,Boston,False,0.25,True
+687,Pittsburgh,False,0.75,False
+688,Miami,True,1.0,True
+689,Houston,True,0.25,True
+690,New York,False,0.25,False
+691,Baltimore,True,0.5,False
+692,Los Angeles,False,0.25,False
+693,Los Angeles,False,0.25,False
+694,Boston,False,0.25,False
+695,Los Angeles,False,0.25,False
+696,New York,False,0.25,True
+697,Miami,True,1.0,False
+698,Pittsburgh,False,0.75,False
+699,Anchorage,True,0.75,False
+700,Anchorage,True,0.75,True
+701,Boston,False,0.25,False
+702,Boston,False,0.25,False
+703,Los Angeles,False,0.25,False
+704,Pittsburgh,False,0.75,True
+705,Los Angeles,False,0.25,True
+706,Miami,True,1.0,False
+707,Saint Louis,True,0.5,False
+708,Boston,False,0.25,True
+709,Denver,True,0.5,False
+710,Saint Louis,True,0.5,True
+711,Houston,True,0.25,False
+712,Denver,True,0.5,False
+713,Pittsburgh,False,0.75,False
+714,Anchorage,True,0.75,False
+715,Baltimore,True,0.5,False
+716,New York,False,0.25,True
+717,Boston,False,0.25,False
+718,Houston,True,0.25,False
+719,New York,False,0.25,True
+720,Anchorage,True,0.75,True
+721,Baltimore,True,0.5,True
+722,Baltimore,True,0.5,False
+723,Pittsburgh,False,0.75,False
+724,Los Angeles,False,0.25,False
+725,Denver,True,0.5,False
+726,Miami,True,1.0,True
+727,Baltimore,True,0.5,True
+728,Boston,False,0.25,False
+729,Pittsburgh,False,0.75,False
+730,Anchorage,True,0.75,False
+731,Denver,True,0.5,False
+732,Los Angeles,False,0.25,True
+733,Pittsburgh,False,0.75,True
+734,Houston,True,0.25,False
+735,Houston,True,0.25,True
+736,Baltimore,True,0.5,True
+737,Saint Louis,True,0.5,True
+738,New York,False,0.25,False
+739,Houston,True,0.25,True
+740,Anchorage,True,0.75,True
+741,Houston,True,0.25,False
+742,Los Angeles,False,0.25,True
+743,Boston,False,0.25,True
+744,Pittsburgh,False,0.75,False
+745,Houston,True,0.25,False
+746,Denver,True,0.5,False
+747,Anchorage,True,0.75,False
+748,Miami,True,1.0,True
+749,Houston,True,0.25,True
+750,New York,False,0.25,False
+751,Miami,True,1.0,True
+752,Denver,True,0.5,False
+753,Houston,True,0.25,False
+754,Saint Louis,True,0.5,True
+755,Boston,False,0.25,False
+756,Miami,True,1.0,False
+757,Denver,True,0.5,False
+758,Boston,False,0.25,True
+759,New York,False,0.25,True
+760,Boston,False,0.25,True
+761,Miami,True,1.0,False
+762,Los Angeles,False,0.25,True
+763,Boston,False,0.25,False
+764,Los Angeles,False,0.25,True
+765,Los Angeles,False,0.25,True
+766,Pittsburgh,False,0.75,True
+767,Los Angeles,False,0.25,True
+768,Houston,True,0.25,False
+769,Los Angeles,False,0.25,False
+770,Saint Louis,True,0.5,True
+771,Boston,False,0.25,False
+772,Houston,True,0.25,True
+773,Saint Louis,True,0.5,False
+774,Los Angeles,False,0.25,False
+775,Pittsburgh,False,0.75,True
+776,Miami,True,1.0,True
+777,Boston,False,0.25,True
+778,Saint Louis,True,0.5,True
+779,Anchorage,True,0.75,False
+780,New York,False,0.25,False
+781,Los Angeles,False,0.25,False
+782,Houston,True,0.25,True
+783,Anchorage,True,0.75,False
+784,Saint Louis,True,0.5,True
+785,Denver,True,0.5,True
+786,Denver,True,0.5,False
+787,New York,False,0.25,True
+788,Saint Louis,True,0.5,False
+789,Baltimore,True,0.5,True
+790,Anchorage,True,0.75,True
+791,New York,False,0.25,True
+792,Pittsburgh,False,0.75,False
+793,Anchorage,True,0.75,False
+794,Los Angeles,False,0.25,False
+795,Pittsburgh,False,0.75,True
+796,Baltimore,True,0.5,True
+797,Saint Louis,True,0.5,True
+798,Miami,True,1.0,False
+799,Miami,True,1.0,False
+800,Pittsburgh,False,0.75,False
+801,Los Angeles,False,0.25,False
+802,Pittsburgh,False,0.75,True
+803,New York,False,0.25,True
+804,Los Angeles,False,0.25,False
+805,Denver,True,0.5,False
+806,New York,False,0.25,False
+807,Saint Louis,True,0.5,True
+808,Miami,True,1.0,True
+809,Saint Louis,True,0.5,True
+810,Los Angeles,False,0.25,True
+811,Houston,True,0.25,False
+812,Pittsburgh,False,0.75,True
+813,Pittsburgh,False,0.75,False
+814,Anchorage,True,0.75,True
+815,Baltimore,True,0.5,False
+816,Miami,True,1.0,False
+817,Saint Louis,True,0.5,False
+818,New York,False,0.25,True
+819,Denver,True,0.5,True
+820,Saint Louis,True,0.5,False
+821,Los Angeles,False,0.25,False
+822,Baltimore,True,0.5,True
+823,Los Angeles,False,0.25,False
+824,Anchorage,True,0.75,True
+825,Houston,True,0.25,False
+826,New York,False,0.25,True
+827,Baltimore,True,0.5,True
+828,Anchorage,True,0.75,False
+829,Houston,True,0.25,True
+830,Houston,True,0.25,False
+831,Denver,True,0.5,True
+832,Denver,True,0.5,False
+833,Denver,True,0.5,True
+834,Boston,False,0.25,False
+835,Miami,True,1.0,False
+836,Saint Louis,True,0.5,False
+837,Saint Louis,True,0.5,True
+838,Boston,False,0.25,False
+839,Los Angeles,False,0.25,True
+840,Anchorage,True,0.75,False
+841,Pittsburgh,False,0.75,True
+842,Anchorage,True,0.75,True
+843,Anchorage,True,0.75,True
+844,New York,False,0.25,True
+845,Denver,True,0.5,True
+846,Los Angeles,False,0.25,True
+847,Anchorage,True,0.75,True
+848,New York,False,0.25,True
+849,Houston,True,0.25,False
+850,Denver,True,0.5,True
+851,Denver,True,0.5,True
+852,Los Angeles,False,0.25,True
+853,Boston,False,0.25,False
+854,New York,False,0.25,False
+855,Baltimore,True,0.5,True
+856,New York,False,0.25,False
+857,Denver,True,0.5,True
+858,Miami,True,1.0,True
+859,Denver,True,0.5,True
+860,Miami,True,1.0,True
+861,New York,False,0.25,True
+862,Anchorage,True,0.75,False
+863,Anchorage,True,0.75,True
+864,New York,False,0.25,False
+865,Denver,True,0.5,True
+866,Pittsburgh,False,0.75,False
+867,Denver,True,0.5,False
+868,New York,False,0.25,True
+869,Anchorage,True,0.75,False
+870,Baltimore,True,0.5,True
+871,Los Angeles,False,0.25,True
+872,Saint Louis,True,0.5,False
+873,Boston,False,0.25,True
+874,Boston,False,0.25,True
+875,Boston,False,0.25,True
+876,Baltimore,True,0.5,True
+877,Los Angeles,False,0.25,True
+878,New York,False,0.25,False
+879,Houston,True,0.25,True
+880,Baltimore,True,0.5,False
+881,Houston,True,0.25,False
+882,New York,False,0.25,False
+883,Los Angeles,False,0.25,True
+884,Anchorage,True,0.75,False
+885,Boston,False,0.25,True
+886,Baltimore,True,0.5,True
+887,Boston,False,0.25,False
+888,Los Angeles,False,0.25,False
+889,Miami,True,1.0,True
+890,Los Angeles,False,0.25,False
+891,Denver,True,0.5,False
+892,Anchorage,True,0.75,True
+893,Denver,True,0.5,False
+894,Anchorage,True,0.75,False
+895,Boston,False,0.25,False
+896,Miami,True,1.0,True
+897,New York,False,0.25,True
+898,Saint Louis,True,0.5,False
+899,Saint Louis,True,0.5,True
+900,Pittsburgh,False,0.75,False
+901,New York,False,0.25,False
+902,New York,False,0.25,False
+903,New York,False,0.25,True
+904,New York,False,0.25,False
+905,Baltimore,True,0.5,False
+906,Houston,True,0.25,False
+907,Anchorage,True,0.75,False
+908,New York,False,0.25,True
+909,Boston,False,0.25,False
+910,Denver,True,0.5,True
+911,Los Angeles,False,0.25,True
+912,Boston,False,0.25,True
+913,Boston,False,0.25,True
+914,Houston,True,0.25,True
+915,Los Angeles,False,0.25,True
+916,Anchorage,True,0.75,False
+917,Denver,True,0.5,False
+918,Los Angeles,False,0.25,True
+919,Boston,False,0.25,False
+920,Houston,True,0.25,False
+921,Boston,False,0.25,False
+922,Boston,False,0.25,True
+923,Baltimore,True,0.5,False
+924,Anchorage,True,0.75,False
+925,Denver,True,0.5,False
+926,Los Angeles,False,0.25,True
+927,Pittsburgh,False,0.75,True
+928,Anchorage,True,0.75,False
+929,Los Angeles,False,0.25,True
+930,Baltimore,True,0.5,False
+931,Pittsburgh,False,0.75,False
+932,Miami,True,1.0,False
+933,Boston,False,0.25,False
+934,Houston,True,0.25,False
+935,Baltimore,True,0.5,False
+936,Pittsburgh,False,0.75,True
+937,New York,False,0.25,True
+938,Anchorage,True,0.75,True
+939,Baltimore,True,0.5,False
+940,Miami,True,1.0,False
+941,Pittsburgh,False,0.75,True
+942,Denver,True,0.5,True
+943,Miami,True,1.0,True
+944,Houston,True,0.25,True
+945,Anchorage,True,0.75,True
+946,Anchorage,True,0.75,True
+947,Baltimore,True,0.5,False
+948,Los Angeles,False,0.25,False
+949,Saint Louis,True,0.5,True
+950,Anchorage,True,0.75,True
+951,Baltimore,True,0.5,True
+952,New York,False,0.25,True
+953,Miami,True,1.0,True
+954,New York,False,0.25,False
+955,Saint Louis,True,0.5,True
+956,Miami,True,1.0,True
+957,Los Angeles,False,0.25,False
+958,Denver,True,0.5,True
+959,Los Angeles,False,0.25,True
+960,Boston,False,0.25,False
+961,Miami,True,1.0,False
+962,Boston,False,0.25,False
+963,Los Angeles,False,0.25,True
+964,Houston,True,0.25,True
+965,Pittsburgh,False,0.75,True
+966,Denver,True,0.5,True
+967,New York,False,0.25,False
+968,Anchorage,True,0.75,True
+969,New York,False,0.25,False
+970,Los Angeles,False,0.25,False
+971,Los Angeles,False,0.25,True
+972,Houston,True,0.25,False
+973,Houston,True,0.25,False
+974,Los Angeles,False,0.25,True
+975,Baltimore,True,0.5,True
+976,New York,False,0.25,False
+977,Saint Louis,True,0.5,False
+978,Houston,True,0.25,True
+979,Miami,True,1.0,True
+980,Denver,True,0.5,True
+981,Los Angeles,False,0.25,False
+982,Houston,True,0.25,True
+983,Anchorage,True,0.75,True
+984,Anchorage,True,0.75,True
+985,Saint Louis,True,0.5,False
+986,Houston,True,0.25,False
+987,Los Angeles,False,0.25,True
+988,Pittsburgh,False,0.75,True
+989,Saint Louis,True,0.5,False
+990,Boston,False,0.25,False
+991,Miami,True,1.0,False
+992,Denver,True,0.5,False
+993,Baltimore,True,0.5,True
+994,Miami,True,1.0,True
+995,Pittsburgh,False,0.75,True
+996,Saint Louis,True,0.5,False
+997,Miami,True,1.0,True
+998,Pittsburgh,False,0.75,True
+999,Denver,True,0.5,False
+1000,Miami,True,1.0,False
