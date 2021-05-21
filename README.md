@@ -19,10 +19,10 @@ but any individual can use their own discretion.
 
 #### System and Python
 
-This application was built on the Linux system, and the Python version used was 3.7.9.
-[Pyenv](https://github.com/pyenv/pyenv) is recommended for Python version management.
-Here is a simple [tutorial](https://realpython.com/intro-to-pyenv/) on how to install
-Pyenv on your system.
+This application was built on the Linux system, and the [Python](https://www.python.org/)
+version used was 3.7.9. [Pyenv](https://github.com/pyenv/pyenv) is recommended for Python
+version management. Here is a simple [tutorial](https://realpython.com/intro-to-pyenv/)
+on how to install Pyenv on your system.
 
 [Pipenv](https://github.com/pypa/pipenv) was used to manage the Python dependencies,
 here is a simple [tutorial](https://realpython.com/pipenv-guide/) on how to install
