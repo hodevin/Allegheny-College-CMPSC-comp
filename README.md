@@ -30,7 +30,7 @@ and use Pipenv.
 
 #### Dependency Installation
 
-To install the dependencies, use `pipenv install ___` or `pip install ___` to install from Pipfile.
+To install the dependencies, use `pipenv install ___` to install from Pipfile.
 
 The complete dependency list is as follows, please also refer to [Pipfile](comp/Pipfile)
 for specific details.
