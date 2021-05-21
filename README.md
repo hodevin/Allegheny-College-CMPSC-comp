@@ -1,12 +1,13 @@
 # Allegheny-College-CMPSC-comp
 
-The COMP project for Allegheny College Computer Science department class of 2021.
+The Comp project is for Allegheny College Computer Science department class of 2021.
 This project aims to contribute to the on-going efforts of understanding COVID-19,
 and its massive impact in the modern day. This tool does not claim to have the answers,
 but it acts as a framework for anybody to utilize and analyze the results. This tool
 will automatically generate synthetic data to be used as novel data due to the nature
-of the subject. There is not enough accurate or available data to truly access what
-is the best course of action.
+of the subject. Otherwise, users have a choice of uploading their own data via the
+formatting guidelines listed in the below section. There is not enough accurate or
+available data to truly access what is the best course of action.
 
 The tool will produce the results based on whoever is uploading the data, and it is entirely
 up to the user to make their own hypotheses and analyze the output. This tool supports
@@ -42,7 +43,7 @@ geopandas = "*"
 seaborn = "*"
 ```
 
-### User Inputted Data
+### User Input Data & Formatting Guidelines
 
 In order to run this tool with user inputted data, you must comply to the standardized
 guidelines for the format of the data. The approach is to run a separate checker program
