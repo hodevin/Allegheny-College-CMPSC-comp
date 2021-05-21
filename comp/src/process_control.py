@@ -121,7 +121,7 @@ def recreate_cap_table(log_file_path, cap_table_path):
 
 if __name__ == "__main__":
     file_cleaning()
-    random_data_generator(1000)
+    random_data_generator(1000) # comment this out if using user input data
     # Recreate data table
     recreate_city_table("./data/input_file.csv", "./data/city_table.csv")
     recreate_mask_table("./data/input_file.csv", "./data/mask_table.csv")
